@@ -1,3 +1,1 @@
-#Testing
-0.0.0.0 example.com
-0.0.0.0 ads.google.com
+
